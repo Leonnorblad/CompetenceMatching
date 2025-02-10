@@ -186,5 +186,5 @@ While semantic search can retrieve job listings that meet many desired specifica
 - Llama
 - Chroma
 - Langchain
-- geopy
+- Geopy
 - Docling
