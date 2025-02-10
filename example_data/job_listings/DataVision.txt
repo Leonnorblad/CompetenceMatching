@@ -1,0 +1,36 @@
+Subject: Announcement: Senior Data Scientist at DataVision
+
+Announcement:
+DataVision has published a new role: Senior Data Scientist, Level 3.
+
+Role and Key Dates:
+- Role Title: Senior Data Scientist
+- Duration of the role: Full-time employment (40 hours/week)
+- Deadline for application: February 28th, 2025 (23:59 CET)
+
+Location:
+DataVision is based in Stockholm, Sweden. The position offers flexibility to work from home or office depending on team requirements.
+
+Job Description:
+As a Senior Data Scientist at DataVision, you will be responsible for developing and implementing machine learning models that provide actionable insights from large datasets. Your expertise in data visualization will help stakeholders make informed business decisions. You will also contribute to the growth of our analytics team by mentoring junior colleagues and collaborating with cross-functional teams.
+
+Mandatory Requirements (Must-Have):
+- PhD or Master's degree in a quantitative field (e.g., Data Science, Computer Science, Mathematics)
+- 5+ years of experience in machine learning and data science
+- Proficiency in programming languages such as Python, R, or SQL
+- Strong understanding of statistical concepts and algorithms
+- Excellent communication and presentation skills
+
+Preferred Requirements (Nice-to-Have):
+- Experience with deep learning frameworks (e.g., TensorFlow, PyTorch)
+- Knowledge of big data technologies (e.g., Hadoop, Spark)
+- Familiarity with cloud-based platforms (e.g., AWS, GCP)
+
+Additional Information:
+This is a fixed-term employment contract for 12 months. DataVision offers a comprehensive benefits package and salary range between 90,000 - 110,000 SEK per month.
+
+Application Instructions:
+To apply, please submit your CV in PDF format along with a motivation letter (max. 1 page). We kindly ask that you use the following subject line: "Senior Data Scientist Application".
+
+Closing:
+We encourage early applications and look forward to receiving your application by the deadline. If you have any questions or would like more information about the role, please feel free to contact us at careers@datavision.com.

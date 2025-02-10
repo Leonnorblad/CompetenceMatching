@@ -1,0 +1,40 @@
+Subject: Senior Cybersecurity Specialist - SecureNet
+
+Announcement:
+SecureNet has published a new role: Senior Cybersecurity Specialist.
+
+Role and Key Dates:
+- Role Title: Senior Cybersecurity Specialist
+- Duration of the role: 12 months (extendable)
+- Deadline for application: February 28, 2025 (23:59 CEST)
+
+Location:
+We are based in Stockholm, Sweden. Remote work possibilities will be discussed during interviews.
+
+Job Description:
+The successful candidate will play a key role in enhancing SecureNet's network security posture and handling incident response protocols. The primary responsibilities include:
+- Conducting regular vulnerability assessments and penetration testing to identify and address potential security threats
+- Developing and implementing comprehensive cybersecurity policies and procedures to ensure alignment with industry best practices
+- Collaborating with the IT department to implement technical solutions for security-related issues
+
+Mandatory Requirements (Must-Have):
+- Bachelor's degree in Computer Science, Cybersecurity, or a related field
+- 5+ years of experience in cybersecurity roles, preferably within a similar industry
+- Strong knowledge of network protocols, firewalls, and intrusion detection systems
+- Excellent analytical and problem-solving skills with the ability to work under pressure
+- Proficiency in Linux and Windows operating systems
+
+Preferred Requirements (Nice-to-Have):
+- Master's degree in Cybersecurity or a related field
+- CISSP, CEH, or similar cybersecurity certifications
+- Experience with security information and event management (SIEM) systems
+- Strong understanding of cloud security and compliance frameworks
+
+Additional Information:
+The start date for this role is April 1, 2025. The selected candidate will be required to work 40 hours per week with some flexibility to accommodate business needs.
+
+Application Instructions:
+To apply, please submit your CV and a motivation letter in PDF format (max 2 pages) to [careers@securenet.se](mailto:careers@securenet.se). Please use the subject line "Senior Cybersecurity Specialist Application."
+
+Closing:
+We encourage early applications. SecureNet is an equal opportunities employer committed to diversity, equity, and inclusion.

@@ -1,0 +1,48 @@
+Subject: Data Engineer - Design and Optimize ETL Pipelines, Cloud Data Warehousing Solutions at CloudSync
+
+Announcement:
+CloudSync has published a new role: Data Engineer.
+
+Role and Key Dates:
+
+* Role Title: Data Engineer
+* Duration of the role: Full-time position (40 hours per week)
+* Deadline for application: February 28, 2025 (11:59 PM EST)
+
+Location:
+We are based in New York City, but this is a remote work opportunity. You must have a stable internet connection and be able to communicate effectively via email, phone, or video conferencing.
+
+Job Description:
+As our ideal candidate, you will design, develop, and optimize ETL (Extract, Transform, Load) pipelines for extracting data from various sources and loading it into cloud-based data warehouses. Your expertise in managing complex data systems and ensuring seamless integration of multiple systems will be essential. You'll also collaborate with cross-functional teams to identify business requirements and prioritize projects.
+
+Key responsibilities:
+
+* Design, develop, and optimize ETL pipelines using Python libraries such as Pandas, NumPy, and SQLAlchemy.
+* Manage cloud-based data warehousing solutions (Amazon Redshift or Google BigQuery).
+* Collaborate with stakeholders to identify business requirements and prioritize projects.
+* Perform data quality checks and ensure high-quality data processing.
+
+Mandatory Requirements (Must-Have):
+
+* Bachelor's degree in Computer Science, Data Engineering, or a related field.
+* 3+ years of experience as a data engineer designing ETL pipelines and managing cloud-based data warehousing solutions.
+* Proficiency in Python programming languages and libraries like Pandas, NumPy, and SQLAlchemy.
+* Strong knowledge of data modeling concepts and SQL databases (e.g., MySQL).
+* Excellent analytical skills with the ability to work under pressure.
+
+Preferred Requirements (Nice-to-Have):
+
+* Master's degree in Computer Science or Data Engineering.
+* Experience with cloud-based platforms such as AWS or Google Cloud.
+* Strong understanding of big data processing frameworks like Apache Spark or Hadoop.
+* Familiarity with data visualization tools and SQL databases.
+
+Additional Information:
+The start date for this role is March 1, 2025. This position requires a commitment to working full-time (40 hours per week) and occasional overtime during peak periods.
+
+Application Instructions:
+
+To apply, please submit your resume and a cover letter explaining why you're the ideal candidate for this Data Engineer position. We accept CVs in PDF or Word format. Please address your submission to [careers@cloudsync.com](mailto:careers@cloudsync.com).
+
+Closing:
+Don't miss out on this exciting opportunity! Apply by February 28, 2025, and join our team of data engineering experts at CloudSync.

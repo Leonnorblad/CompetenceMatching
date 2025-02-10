@@ -1,0 +1,48 @@
+Subject: Agile AB has published a new role: Senior Software Developer, Level 4.
+
+Announcement:
+CodeCraft has published a new role: Senior Software Developer (Python/Django).
+
+Role and Key Dates:
+
+* Role Title: Senior Software Developer
+* Duration of the role: Approximately 12 months
+* Deadline for application: Sunday, March 10, 2025, at 11:59 PM CET
+
+Location:
+The successful candidate will be based in our offices in Stockholm, Sweden. However, we also offer remote work possibilities to ensure a great balance between work and personal life.
+
+Job Description:
+We're looking for an experienced software developer with expertise in Python and Django to join our team of skilled engineers. The primary responsibilities for this role include:
+
+* Designing, developing, and maintaining high-quality web applications using Django
+* Collaborating closely with cross-functional teams to deliver projects on time
+* Troubleshooting complex technical issues and providing solutions
+* Participating in code reviews to ensure consistency and best practices
+
+Background Context:
+CodeCraft is a leading software development company focused on delivering innovative solutions for businesses. We're passionate about creating high-quality products that meet our clients' needs.
+
+Mandatory Requirements (Must-Have):
+
+* Bachelor's degree in Computer Science or equivalent experience
+* Minimum 5 years of experience with Python and Django
+* Strong knowledge of software design patterns, data structures, and algorithms
+* Proficiency in Linux/Unix environments
+* Excellent problem-solving skills
+
+Preferred Requirements (Nice-to-Have):
+* Experience with Agile methodologies (Scrum, Kanban)
+* Knowledge of containerization (Docker) and orchestration tools
+* Familiarity with cloud providers (AWS, Google Cloud)
+* Strong communication and team collaboration skills
+
+Additional Information:
+This is a full-time position starting from April 1st, 2025. The contract will be for 12 months initially, with the possibility of extension based on performance.
+
+Application Instructions:
+
+If you're passionate about software development and looking to take your career to the next level, please submit your application through our website: [insert link]. Please ensure that your CV is in a PDF format and includes relevant details such as education, experience, and skills. A motivation letter (1-2 pages) outlining why you'd be an excellent fit for this role will also be appreciated.
+
+Closing:
+We look forward to receiving applications from talented software developers who are passionate about delivering high-quality web applications using Python and Django. Early applications are encouraged, and the successful candidate will be contacted by our recruitment team within 1-2 weeks of the application deadline.
