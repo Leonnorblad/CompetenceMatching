@@ -53,7 +53,7 @@ logo = f"""═══════════════════════
          |_|  |_|/_/    \_\|_|   \_____||_|  |_||_____||_| \_| \_____|         
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- By Leonard Norblad | github.com/ComptenceMatching | Version {VERSION} ({DATE})
+Leonard Norblad | github.com/Leonnorblad/CompetenceMatching | v{VERSION} {DATE}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
 
 DATABASE_TRACKER_FILE = "./user_data/created_databases.json"

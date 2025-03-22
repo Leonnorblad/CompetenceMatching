@@ -1,5 +1,5 @@
-VERSION =  "0.1.0"
-DATE = "2025-02-09"
+VERSION =  "0.1.1"
+DATE = "2025-22-03"
 
 # Number of ads for each chunk of ideal job ad
 NUM_RES_PER_CHUNK = 10
