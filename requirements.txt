@@ -6,3 +6,4 @@ langchain-chroma==0.1.4
 langchain_ollama==0.2.1
 docling==2.14.0
 geopy==2.4.1
+chardet==5.2.0

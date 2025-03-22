@@ -7,7 +7,7 @@ import re
 import pandas as pd
 from bs4 import BeautifulSoup
 import zipfile
-from scr.utils import write_to_file
+from scr.utils import write_to_file, detect_encoding
 
 def parse_mail_body_eml(eml_file_path):
     try:
@@ -121,7 +121,8 @@ def parse_csv(csv_path, dest_folder):
     # input: one csv with all emails
     # Outout: a folder with txt files with the emails
     """
-    df = pd.read_csv(csv_path, encoding='utf-8')
+    encoding = detect_encoding(csv_path)
+    df = pd.read_csv(csv_path, encoding=encoding)
     # Get the 0'th index column
     headers_lst = list(df.keys())
     body_col_name, sender_col_name, subject_col_name = headers_lst[1], headers_lst[3], headers_lst[0]

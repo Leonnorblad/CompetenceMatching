@@ -176,7 +176,7 @@ def create_database(database_tracker):
         last_part_of_path = os.path.basename(path)
 
         # Parse a csv file with emails
-        if os.path.basename(path).endswith(".csv"):
+        if os.path.basename(path).lower().endswith(".csv"):
             dest_folder = f"./user_data/email_folders/{last_part_of_path[:-4]}_txts"
             parse_problems = parse_csv(path, dest_folder)
         # Parse a folder with emails
@@ -255,7 +255,7 @@ Don't worry I'll make sure to not overwrite or create any duplicates 😉
                     path = olm_handler(path)
                 
                 last_part_of_path = os.path.basename(path)
-                if os.path.basename(path).endswith(".csv"):
+                if os.path.basename(path).lower().endswith(".csv"):
                     dest_folder = f"./user_data/email_folders/{last_part_of_path[:-4]}_txts"
                     parsing_problems = parse_csv(path, dest_folder)
                 else:
