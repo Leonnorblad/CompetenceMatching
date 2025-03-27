@@ -38,6 +38,7 @@ pip install -r requirements.txt
 4. Download [ollama 2](https://ollama.com/)
 5. Open a terminal and run
 ```bash
+ollama pull nomic-embed-text
 ollama pull llama3.1:8b
 ```
 You're all set! To run the CompetenceMatching app, open a terminal, navigate to the repository directory (`cd path/to/repo`) and execute `python main.py`
